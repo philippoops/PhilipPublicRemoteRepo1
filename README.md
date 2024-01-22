@@ -1,2 +1,1 @@
-# PhilipPublicRemoteRepo1
-"Message from Palidar"
+# PhilipPublicRemoteRepo1 - "Message from Palidar"
