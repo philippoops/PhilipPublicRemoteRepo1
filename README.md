@@ -6,4 +6,4 @@
 
 # Edited for Ecercise 5
 
-# Testing excercise 6
+# Testing excercise 6 -2
