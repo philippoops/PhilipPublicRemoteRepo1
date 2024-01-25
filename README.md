@@ -5,3 +5,5 @@
 # updated by Palidar
 
 # Edited for Ecercise 5
+
+# Edited for Excercise #6
