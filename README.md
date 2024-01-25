@@ -7,3 +7,4 @@
 # Edited for Ecercise 5
 
 # Testing excercise 6 -2
+# Hello palidar this for exercise 6
